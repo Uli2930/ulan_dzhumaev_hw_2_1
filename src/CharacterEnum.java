@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum CharacterEnum {
+public enum CharacterEnum {
+    KIND, GREEDY, GENEROUS
 }
